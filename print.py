@@ -1,3 +1,4 @@
+#by py2
 name='zhang lin'
 height=163  #cm
 weight=45   #kg
