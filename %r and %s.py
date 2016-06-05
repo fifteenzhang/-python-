@@ -15,3 +15,11 @@ print "%r" % d
 #result 
 #2016-06-05
 #datetime.date(2016, 6, 5)
+
+#update
+formatter = "%r %r %r %r"
+
+print formatter % (1, 2, 3, 4)
+print formatter % ("one", "two", "three", "four")
+print formatter % (True, False, False, True)
+print formatter % (formatter, formatter, formatter, formatter)
