@@ -1,8 +1,17 @@
 #No.2Windows下第三包安装(win7 64位 python2.7)
-#首先安装python，将python的路径加入到环境变量（计算机属性环境变量path）eg：  ×:\××××\Python2.7;
+#法一：首先安装python，将python的路径加入到环境变量（计算机属性环境变量path）eg：  ×:\××××\Python2.7;
 #下载第三方包
 #cmd下定位到下载目录
 #输入pyhon ******.py install
+
+#法二：下载easyinstall扩展包
+#按法一安装
+#将python2.7安装路径\scripts;添加到环境变量
+#easy_install pip(想要什么包按此方法直接装，不用下载，也可以通过pip)
+
+
+
+
 
 
 #No.1中文字符问题
