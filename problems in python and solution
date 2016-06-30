@@ -1,0 +1,4 @@
+#No.1中文字符问题
+SyntaxError: Non-ASCII character '\xe8' in file 
+#solution：顶层加上
+# -*- coding: utf-8 -*-
