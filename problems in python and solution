@@ -1,3 +1,10 @@
+#No.2Windows下第三包安装(win7 64位 python2.7)
+#首先安装python，将python的路径加入到环境变量（计算机属性环境变量path）eg：  ×:\××××\Python2.7;
+#下载第三方包
+#cmd下定位到下载目录
+#输入pyhon ******.py install
+
+
 #No.1中文字符问题
 SyntaxError: Non-ASCII character '\xe8' in file 
 #solution：顶层加上
